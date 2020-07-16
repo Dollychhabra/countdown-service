@@ -1,0 +1,6 @@
+.timer-value-container,
+.timer-input-container,
+.timer-timestamp-container,
+.timer-clicks-container {
+  min-height: 150px;
+}

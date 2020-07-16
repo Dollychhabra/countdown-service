@@ -1,6 +1,10 @@
-# CounterServiceApp
+# MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+
+git clone https://github.com/Dollychhabra/countdown-service.git
+
+npm install
 
 ## Development server
 
